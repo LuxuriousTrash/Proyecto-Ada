@@ -1,6 +1,6 @@
 from random import choice
 
-listaPal = ['jaja','nelson', 'mandela']
+listaPal = ['murcielago','prueba', 'origen', 'almuerza']
 pal = ''
 letUn = ''
 let = ''
@@ -80,3 +80,5 @@ if juegoTerminado(res) == True:
   print(f'\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nFin del juego\n\nFelicidades, ha conseguido adivinar la palabra\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n')
 elif vid == 0:
   print(f'\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nFin del juego\n\nNo ha conseguido adivinar la palabra \n\nA que la proxima lo consigue!\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n')
+
+
